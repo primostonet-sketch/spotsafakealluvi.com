@@ -1,0 +1,22 @@
+.verify-cta {
+  margin: 4rem auto;
+}
+
+.verify-cta-panel {
+  background: linear-gradient(180deg, var(--accent-soft), rgba(255, 130, 0, 0.02)), var(--bg-elev);
+  border: 1px solid var(--accent-glow);
+  border-radius: 20px;
+  padding: 3rem 2rem;
+  text-align: center;
+}
+
+.verify-cta-panel h2 {
+  font-size: clamp(1.6rem, 3.5vw, 2.2rem);
+  font-weight: 800;
+}
+
+.verify-cta-panel p {
+  margin: 1rem auto 1.75rem;
+  max-width: 520px;
+  color: var(--text-dim);
+}

@@ -1,0 +1,21 @@
+:root {
+  --bg: #000000;
+  --bg-elev: #0a0a0a;
+  --bg-card: #0f0f10;
+  --border: rgba(255, 255, 255, 0.08);
+  --border-strong: rgba(255, 255, 255, 0.16);
+  --text: #ffffff;
+  --text-dim: rgba(255, 255, 255, 0.68);
+  --text-mute: rgba(255, 255, 255, 0.5);
+  --accent: #ff8200;
+  --accent-hover: #ff9326;
+  --accent-soft: rgba(255, 130, 0, 0.12);
+  --accent-glow: rgba(255, 130, 0, 0.35);
+  --warning-bg: #1a0b0b;
+  --warning-border: rgba(255, 90, 90, 0.35);
+  --radius: 16px;
+  --radius-sm: 10px;
+  --max-w: 1120px;
+  --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, "Helvetica Neue", Arial,
+    sans-serif;
+}

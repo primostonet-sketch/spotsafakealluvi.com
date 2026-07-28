@@ -1,0 +1,25 @@
+.site-footer {
+  text-align: center;
+  padding: 3rem 1.5rem 4rem;
+  border-top: 1px solid var(--border);
+  margin-top: 2rem;
+}
+
+.footer-brand {
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  font-size: 1.1rem;
+}
+
+.footer-text {
+  margin: 1rem auto;
+  max-width: 620px;
+  font-size: 0.85rem;
+  color: var(--text-mute);
+}
+
+.footer-link {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 600;
+}
